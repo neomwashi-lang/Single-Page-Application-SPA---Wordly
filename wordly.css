@@ -1,0 +1,50 @@
+
+
+body{
+font-family:sans-serif;
+max-width: 600px;
+justify-content: center;
+padding: 10px;
+margin: 0 auto;
+}
+
+#search-form{
+    display: flex;
+    padding: 2px;
+}
+
+#word-input{
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    flex: 1;
+    width: 0;
+}
+
+button{
+    background-color: rgb(178, 226, 231);
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+button:hover {
+  background-color: rgb(79, 143, 150);
+}
+
+
+
+
+
+
+
+
+
+
+
+
